@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head lang="uk">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width-devic-width, initial-scale=1.0">
+        <title>Hello World!!</title>
+    </head>
+    <body>
+        <header>
+            <nav></nav>
+        </header>
+        <main>
+            <section>
+                <h1>Сучасна пекарня</h1>
+                <h2></h2>
+            </section>
+            <section>
+                <h1>Сучасна пекарня</h1>
+                <h2></h2>
+            </section>
+
+            <section>
+                <h1>Сучасна пекарня</h1>
+                <h2></h2>
+            </section>
+
+            <section>
+                <h1>Сучасна пекарня</h1>
+                <h2></h2>
+            </section>
+
+        </main>
+        <footer></footer>
+    </body>
+</html>
